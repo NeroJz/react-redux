@@ -1,4 +1,4 @@
-ReactJS Challenges
+## ReactJS Challenges
 
 Exploring the use of React JS framework and Redux.
 
